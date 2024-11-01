@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Popshells
 - 👀 I’m interested in running AI tools on Apple Silicon
-- 🌱 I’m currently learning ComfyUI and Kohya
+- 🌱 I’m currently learning ComfyUI and some TTS
 - 💞️ I’m not looking to collaborate because Im not a programmer
 - 📫 How to reach me: not sure yet
 - 😄 Pronouns: they
